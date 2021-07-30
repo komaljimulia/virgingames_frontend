@@ -1,0 +1,10 @@
+2021-07-28 22:07:434 INFO  BasePage :34 - Launching chrome Browser
+2021-07-28 22:07:981 INFO  BasePage :34 - Launching chrome Browser
+2021-07-28 22:07:697 INFO  BasePage :34 - Launching chrome Browser
+2021-07-28 22:07:212 INFO  BasePage :38 - Launching firefox Browser
+2021-07-28 22:07:336 INFO  HomePage :16 - Click on LoginLink[[FirefoxDriver: firefox on WINDOWS (267ab293-e149-4a5a-a31a-b202ceb124c6)] -> xpath: //div[@class='sc-htmcrh ditdwV']/following-sibling::span/child::a[1]]
+2021-07-28 22:07:224 INFO  LoginPage :25 - Send a valid emailIdProxy element for: DefaultElementLocator 'By.xpath: //input[@id='field-username']'
+2021-07-28 22:07:162 INFO  BasePage :38 - Launching firefox Browser
+2021-07-28 22:07:454 INFO  BasePage :38 - Launching firefox Browser
+2021-07-28 22:07:734 INFO  HomePage :16 - Click on LoginLink[[FirefoxDriver: firefox on WINDOWS (fa24e19b-d861-4c41-8a37-fcb03dc82481)] -> xpath: //div[@class='sc-htmcrh ditdwV']/following-sibling::span/child::a[1]]
+2021-07-28 22:07:253 INFO  LoginPage :25 - Send a valid emailIdProxy element for: DefaultElementLocator 'By.xpath: //input[@id='field-username']'
